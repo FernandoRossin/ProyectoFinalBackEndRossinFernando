@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Pan",
+    "description": "Pan de centeno",
+    "price": 500,
+    "status": true,
+    "category": "Panadería",
+    "thumbnail": [
+      "empty"
+    ],
+    "code": "1",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "title": "Queso azul",
+    "description": "Queso roquefort",
+    "price": 6000,
+    "status": true,
+    "category": "Lacteos/Fiambrería",
+    "thumbnail": [
+      "empty"
+    ],
+    "code": "2",
+    "stock": 60,
+    "id": 2
+  },
+  {
+    "title": "Naranja",
+    "description": "Narana dulce",
+    "price": 456,
+    "status": true,
+    "category": "Frutas y verduras",
+    "thumbnail": [
+      "empty"
+    ],
+    "code": "3",
+    "stock": 80,
+    "id": 3
+  },
+  {
+    "title": "Papa",
+    "description": "Papa negra andina",
+    "price": 1000,
+    "status": true,
+    "category": "Frutas y verduras",
+    "thumbnail": [
+      "empty"
+    ],
+    "code": "6",
+    "stock": 50,
+    "id": 4
+  },
+  {
+    "title": "Pollo",
+    "description": "Pollo de granja",
+    "price": 6000,
+    "status": true,
+    "category": "Productos congelados",
+    "thumbnail": [
+      "empty"
+    ],
+    "code": "9",
+    "stock": 40,
+    "id": 5
+  }
+]
